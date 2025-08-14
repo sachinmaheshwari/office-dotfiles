@@ -1,0 +1,59 @@
+{
+  "profiles" : [
+    {
+      "id" : "0EB73507-3B41-4215-AF64-D48832774D49",
+      "name" : "Default",
+      "workspaces" : [
+        {
+          "apps" : [
+            {
+              "bundleIdentifier" : "com.apple.Safari",
+              "iconPath" : "/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Resources/AppIcon.icns",
+              "name" : "Safari"
+            }
+          ],
+          "display" : "DELL U3425WE",
+          "id" : "2CB296CC-4BFB-4D2C-AB0A-6F4503E1A87A",
+          "name" : "Browsing",
+          "shortcut" : "opt+1"
+        },
+        {
+          "apps" : [
+            {
+              "bundleIdentifier" : "com.tinyspeck.slackmacgap",
+              "iconPath" : "/Applications/Slack.app/Contents/Resources/electron.icns",
+              "name" : "Slack"
+            },
+            {
+              "bundleIdentifier" : "com.microsoft.Outlook",
+              "iconPath" : "/Applications/Microsoft Outlook.app/Contents/Resources/Outlook.icns",
+              "name" : "Microsoft Outlook"
+            }
+          ],
+          "display" : "DELL U3425WE",
+          "id" : "49063A83-E150-4980-9F9C-40045CD2FB86",
+          "name" : "Communication",
+          "shortcut" : "opt+2"
+        },
+        {
+          "apps" : [
+            {
+              "bundleIdentifier" : "com.culturedcode.ThingsMac",
+              "iconPath" : "/Users/smaheshwari1/Applications/Things3.app/Contents/Resources/App-Release.icns",
+              "name" : "Things"
+            },
+            {
+              "bundleIdentifier" : "com.apple.Notes",
+              "iconPath" : "/System/Applications/Notes.app/Contents/Resources/AppIcon.icns",
+              "name" : "Notes"
+            }
+          ],
+          "display" : "DELL U3425WE",
+          "id" : "00B38B29-2C5D-491C-9596-D4430086544E",
+          "name" : "Planning",
+          "shortcut" : "opt+3"
+        }
+      ]
+    }
+  ]
+}
