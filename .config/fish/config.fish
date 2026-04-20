@@ -6,3 +6,7 @@ end
 
 # Added by Windsurf
 fish_add_path /Users/smaheshwari1/.codeium/windsurf/bin
+
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+set --export --prepend PATH "/Users/smaheshwari1/.rd/bin"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
